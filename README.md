@@ -4,7 +4,7 @@
 **aditi-singh-21/aditi-singh-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🎓 Currently navigating the exciting journey of a Computer Science undergraduate.
 - 💻 Enthusiastically delving into software development, web technologies, and the marvels of machine learning.
 - 🌱 Eagerly embracing new challenges and technologies to nurture my growth.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💻 Proficient in statistical analysis, machine learning, and data visualization techniques.
 - 💻 Mastering the art of problem-solving and algorithmic thinking.
 - 🌟 Passionate about unraveling complex puzzles and optimizing solutions for efficiency.
--->
+
 
 
 
