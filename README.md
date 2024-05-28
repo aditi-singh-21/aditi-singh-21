@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 -->
- 🎓 Currently navigating the exciting journey of a Computer Science undergraduate.
- 💻 Enthusiastically delving into software development, web technologies, and the marvels of machine learning.
-🌱 Eagerly embracing new challenges and technologies to nurture my growth.
- 📊 Interested in leveraging data to derive insights and make informed decisions.
- 💻 Proficient in statistical analysis, machine learning, and data visualization techniques.
- 💻 Mastering the art of problem-solving and algorithmic thinking.
- 🌟 Passionate about unraveling complex puzzles and optimizing solutions for efficiency.
+ 🎓 Currently navigating the exciting journey of a Computer Science undergraduate.<br>
+ 💻 Enthusiastically delving into software development, web technologies, and the marvels of machine learning.<br>
+🌱 Eagerly embracing new challenges and technologies to nurture my growth.<br>
+ 📊 Interested in leveraging data to derive insights and make informed decisions.<br>
+ 💻 Proficient in statistical analysis, machine learning, and data visualization techniques.<br>
+ 💻 Mastering the art of problem-solving and algorithmic thinking.<br>
+ 🌟 Passionate about unraveling complex puzzles and optimizing solutions for efficiency.<br>
 
 
 
