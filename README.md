@@ -5,12 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Currently navigating the exciting journey of a Computer Science undergraduate.
+- 💻 Enthusiastically delving into software development, web technologies, and the marvels of machine learning.
+- 🌱 Eagerly embracing new challenges and technologies to nurture my growth.
+- 📊 Interested in leveraging data to derive insights and make informed decisions.
+- 💻 Proficient in statistical analysis, machine learning, and data visualization techniques.
+- 💻 Mastering the art of problem-solving and algorithmic thinking.
+- 🌟 Passionate about unraveling complex puzzles and optimizing solutions for efficiency.
 -->
+
+
+
+
+
+## Connect With Me
+
+Interested in collaborating or just want to chat about tech? Feel free to reach out via [email](aditisinghrk906@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/aditi-singh21).
+
+Let's embark on this exciting tech journey together! 🚀
