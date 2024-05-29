@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  🌟 Passionate about unraveling complex puzzles and optimizing solutions for efficiency.<br>
 
 
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/aditi-singh-21?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 
