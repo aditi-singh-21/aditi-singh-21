@@ -61,11 +61,6 @@ Here are some ideas to get you started:
  </div>
  <br>
  <br>
-<img src="https://myreadme.vercel.app/api/embed/aditi-singh-21?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<br>
-<br>
-<br>
 
 ## Connect With Me
 
